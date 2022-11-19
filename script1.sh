@@ -1,2 +1,1 @@
-echo new world
-hello
+new new
