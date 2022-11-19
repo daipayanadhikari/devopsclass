@@ -1,2 +1,1 @@
-echo "Continuous Integration in DevOps"
-who
+echo "HELLO JENKINS"
