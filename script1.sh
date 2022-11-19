@@ -1,2 +1,2 @@
-echo "WEB HOOK TRIGGERED 1"
-cal
+echo "devops CI"
+cal 2022
