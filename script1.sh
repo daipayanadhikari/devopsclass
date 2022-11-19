@@ -1,3 +1,2 @@
-echo "CI in DevOps"
-pwd
-df -Th
+echo "Continuous Integration in DevOps"
+who
