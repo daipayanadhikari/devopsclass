@@ -1,1 +1,2 @@
-echo new 
+echo new world
+hello
