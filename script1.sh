@@ -1,2 +1,2 @@
-echo "new changes committed to track webhook trgger"
-date
+echo "WEB HOOK TRIGGERED 1"
+cal
